@@ -1,0 +1,32 @@
+.yazı
+{
+	position: absolute;
+	width: 400px;
+	left: 50%;
+	top: 45%;
+	transform: translate(-50%,-50%);
+	color:white;
+	margin:10px;
+	padding: 10px;
+}
+
+p
+{
+	color:white;
+	font-size: 20px;
+}
+
+a
+{
+	color:red;
+}
+.yazı a i
+{
+	position: absolute;
+	font-size: 50px;
+	color:red;
+}
+input
+{
+
+}

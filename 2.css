@@ -1,0 +1,83 @@
+.yazı
+{
+	position: absolute;
+	width: 400px;
+	left: 53%;
+	top: 45%;
+	transform: translate(-50%,-50%);
+	color:white;
+	outline: none;
+}
+
+p
+{
+	color:white;
+	outline: none;
+	font-size: 20px;
+}
+
+a
+{
+	color:red;
+	outline: none;
+}
+ a i
+{
+	position: absolute;
+	left: 50%;
+	top: 65%;
+	transform: translate(-50%,-50%);
+	font-size: 50px;
+	outline: none;
+}
+ a i:hover
+{
+color:#ED4C67;
+}
+textarea
+{
+	background:none;
+	color:white;
+	font-family: sans-serif;
+	width: 300px;
+	border: 1px solid white;
+	border-radius: 5px;
+	height: 50px;
+	outline: none;
+}
+
+
+.yazı input[type="submit"]
+{
+	position: absolute;
+	background-color: grey;
+	border:none;
+	width: 300px;
+	left: 2px;
+	height:30px;
+	font-family: sans-serif;
+	color:white;
+	outline: none;
+	border-radius: 5px;
+
+}
+
+
+
+.yazı input[type="submit"]:hover
+{
+	background-color:#ED4C67;
+	outline: none;
+
+}
+
+
+li
+{
+	color:white;
+	position: absolute;
+	left: 41%;
+	top: 30%;
+	font-size: 20px;
+
+}
